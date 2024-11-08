@@ -10,7 +10,7 @@
 
 ### 安装
 
-将本插件放入 LiteLoaderQQNT 插件目录即可, 重启QQ即可
+将本插件放入 LiteLoaderQQNT 插件目录即可, 重启QQ即可，或者参考 LiteloaderQQNT [插件安装方法](https://liteloaderqqnt.github.io/guide/plugins.html)
 
 [//]: # (注意：Mac 用户需下载 napcat.packet.production.py 运行（在QQ启动之前运行）)
 
