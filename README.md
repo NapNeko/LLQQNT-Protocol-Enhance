@@ -1,10 +1,18 @@
 # LiteloaderQQNT插件 - QQ协议包增强工具
 
-暂时只支持 Windows 和 Linux，不支持 Mac
-
 利用发送协议包实现 PC NTQQ 没有的功能，如 戳一戳，设置头衔
 
 核心代码来自 [NapCatQQ](https://github.com/NapNeko/NapCatQQ)
+
+## 支持的版本
+
+* Windows X64 QQ 28418 - 29456
+
+* Linux X64 QQ 28498 - 29456
+
+* Linux ARM64 QQ 28498 - 29456
+
+暂时不支持 Mac
 
 ## 使用方法
 
