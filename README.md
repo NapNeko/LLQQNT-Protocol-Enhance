@@ -2,7 +2,7 @@
 
 暂时只支持 Windows 和 Linux，不支持 Mac
 
-利用发送协议包实现 NTQQ 没有的功能，如 戳一戳，设置头衔
+利用发送协议包实现 PC NTQQ 没有的功能，如 戳一戳，设置头衔
 
 核心代码来自 [NapCatQQ](https://github.com/NapNeko/NapCatQQ)
 
