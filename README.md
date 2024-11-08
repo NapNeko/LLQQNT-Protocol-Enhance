@@ -1,4 +1,4 @@
-# QQ协议包增强工具
+# LiteloaderQQNT插件 - QQ协议包增强工具
 
 暂时只支持 Windows 和 Linux，不支持 Mac
 
